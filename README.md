@@ -40,5 +40,5 @@ This is a landing page for a Spring-inspired Botanic business. Built with React 
 
 ## Credits
 
-- Mockup - [Figma](https://www.figma.com/file/dBw5eWpSsZJHFGpjeBeVV9/Botanic_Bento_2?type=design&node-id=0%3A1&mode=design&t=fmGHMGKMQM8UISXS-1)
+- Mockup - [Figma](https://www.figma.com/file/dBw5eWpSsZJHFGpjeBeVV9/botanic_bento?type=design&node-id=0%3A1&mode=design&t=X77eH3T0cyZzVmkV-1)
 
