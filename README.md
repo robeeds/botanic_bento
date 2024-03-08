@@ -15,10 +15,11 @@ This is a landing page for a Spring-inspired Botanic business. Built with React 
 
 ### Requirements
 1. Create a modern ePortfolio landing page mockup with Figma
-2. Generate a React template using npm and Vite
-3. Import data and assets using a JS file
-4. Create reusable styling components with Tailwind
-5. Deploy site using Vercel
+2. Incorporate at least one section with bento-inspired design
+3. Generate a React template using npm and Vite
+4. Import data and assets using a JS file
+5. Create reusable styling components with Tailwind
+6. Deploy site using Vercel
 
 ### Solution
 - Solution Repo - [Github](https://github.com/robeeds/botanic_bento)
