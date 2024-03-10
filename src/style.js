@@ -4,7 +4,7 @@ const styles = {
     title: "font-playfair font-semibold xxs:text-[40px] md:text-[60px]",
     subtitle: "font-playfair font-semibold xxs:text-[24px] md:text-[40px]",
     heading: "font-montserrat font-semibold xxs:text-[36px]",
-    paragraph: "font-montserrat font-regular xxs:text-[20px]",
+    paragraph: "font-montserrat font-regular xxs:text-[18px]",
 
     paddingX: "sm:px-16 px-6",
     paddingY: "sm:py-16 py-6",
