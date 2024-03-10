@@ -1,5 +1,11 @@
-import Logo from "./Logo.png"
+import logo from "./Logo.png"
+import search from "./search.svg"
+import bag from "./bag.svg"
+import account from "./account.svg"
 
 export {
-    Logo,
+    logo,
+    search,
+    bag,
+    account,
 }
