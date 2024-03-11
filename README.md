@@ -34,6 +34,8 @@ This is a landing page for a Spring-inspired Botanic business. Built with React 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" height="32" width="32"/> | Deployment |
 
 ## Project Preview
+<img width="1439" alt="image" src="https://github.com/robeeds/botanic_bento/assets/71895118/de5fdcc5-76be-4c47-9b97-718ad30a6267">
+
 
 ## Author
 
