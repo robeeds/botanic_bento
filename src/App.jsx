@@ -6,9 +6,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <div className={`${styles.boxWidth}`}>
 
-      <div className={`${styles.marginX} ${styles.paddingX}`}>
+      <div className={`${styles.paddingX} bg-radial_gradient`}>
         <Navbar />
       </div>
 
