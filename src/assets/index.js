@@ -4,7 +4,7 @@ import bag from "./bag.svg"
 import account from "./account.svg"
 import menu from "./menu.svg"
 import exit from "./exit.svg"
-import landingplant from "./landingplant.png"
+import landingplant from "./LandingPlant.png"
 
 export {
     logo,

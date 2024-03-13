@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Navbar } from "./components"
+import { Navbar, Hero } from "./components"
 import styles from "./style"
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
 
       <div className={`${styles.paddingX} bg-radial_gradient`}>
         <Navbar />
+        <Hero />
       </div>
 
 
