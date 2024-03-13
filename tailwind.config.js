@@ -21,6 +21,7 @@ export default {
         grey: "#E7EADA",
         lime: "#9BCE72",
         lightGreen: "#D9DFCE",
+        green: "#839974",
         darkGreen: "9FAFA1",
       },
       fontFamily: {
