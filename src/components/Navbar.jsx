@@ -20,9 +20,9 @@ const Navbar = () => {
       <div className='xxs:hidden md:flex col-span-2'>
 
         {/* SearchBar */}
-        <div className='flex flex-1 items-center col-span-1 bg-cream rounded-full'>
+        <div className='flex flex-1 items-center col-span-1 bg-cream rounded-full drop-shadow-lg'>
           <input placeholder='Search Catalog...' className='flex flex-1 placeholder-green text-green bg-cream py-2 px-4 outline-none rounded-full' />
-          <img src={search} alt='search' className='h-[32px] w-[32px] right-0 mx-2 hover:cursor-pointer'/>
+          <img src={search} alt='search' className='h-[28px] w-[28px] right-0 mx-2 hover:cursor-pointer'/>
         </div>
 
         {/* Links */}
@@ -30,10 +30,10 @@ const Navbar = () => {
           
           <a className='px-2 hover:cursor-pointer' href='#about'>about</a>
           <a className='px-2 hover:cursor-pointer' href='#contact'>contact</a>
-          <a  href='#bag' className='flex bg-cream h-[40px] w-[40px] rounded-full mx-2 px-2 items-center hover:cursor-pointer'>
+          <a  href='#bag' className='flex bg-cream h-[40px] w-[40px] rounded-full mx-2 px-2 items-center hover:cursor-pointer drop-shadow-lg'>
             <img src={bag} alt='shopping bag' className='h-[32px] w-[32px]' />
           </a>
-          <a href='#account' className='flex bg-cream h-[40px] w-[40px] rounded-full mx-2 px-2 hover:cursor-pointer items-center'>
+          <a href='#account' className='flex bg-cream h-[40px] w-[40px] rounded-full mx-2 px-2 hover:cursor-pointer items-center drop-shadow-lg'>
             <img src={account} alt='account' className='h-[32px] w-[32px]' />
           </a>
           
