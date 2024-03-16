@@ -10,7 +10,7 @@ const Hero = () => {
                 <p className={`${styles.title} whitespace-nowrap pb-0 mb-0`}>Botanic Bento</p>
                 <p className={`${styles.subtitle} whitespace-nowrap -mt-3 lg:-mt-10`}>Bring Beauty to your home</p>
                 <div className='flex'>
-                  <a href='#catalog' className='bg-lime font-montserrat text-grey px-2 md:px-4 py-1 md:py-2 rounded-full'>Explore Catalog</a>
+                  <a href='#catalog' className='bg-lime font-montserrat text-white px-2 md:px-4 py-1 md:py-2 rounded-full'>Explore Catalog</a>
                 </div>
             </div>
             <div className='z-[3] self-center sm:py-6 md:py-0'>
