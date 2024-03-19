@@ -6,6 +6,7 @@ import menu from "./menu.svg"
 import exit from "./exit.svg"
 import landingplant from "./LandingPlant.png"
 import livingroom from "./aboutlivingroom.png"
+import card from "./Card.svg"
 
 export {
     logo,
@@ -16,4 +17,5 @@ export {
     exit,
     landingplant,
     livingroom,
+    card,
 }
