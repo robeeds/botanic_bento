@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Navbar, Hero, About } from "./components"
+import { Navbar, Hero, About, Catalog } from "./components"
 import styles from "./style"
 
 function App() {
@@ -14,6 +14,9 @@ function App() {
       </div>
       <div >
         <About />
+      </div>
+      <div className={`${styles.paddingX} ${styles.paddingY}`}>
+        <Catalog />
       </div>
 
 
