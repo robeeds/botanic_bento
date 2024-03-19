@@ -9,17 +9,25 @@ const Catalog = () => {
         <p className={`${styles.subtitle} text-center`}>Our Latest Releases</p>
         
         {/* Bento Section */}
-        <div className={`flex gap-8`}>
-          <div className={`flex flex-col relative`}>
-              <img src={card} className='w-[100%] h-[100%]' />
-              <div className='absolute bottom-0'>
-                <p className=''>Blossoming Beauties</p>
-                <p className=''>Welcome the Season with Our Spring Collection</p>
-              </div>
+        <div className='grid grid-cols-6 grid-rows-3 gap-x-6 gap-y-6'>
+          <div className='col-span-3 row-span-2'>
+            <img src={card} className='w-[100%] h-[100%]' />
           </div>
-          
-          
+          <div className='bg-cream col-span-3 row-span-2 rounded-[40px]'>
+
+          </div>
+          <div className='bg-cream col-span-2 row-span-1 rounded-[30px]'>
+
+          </div>
+          <div className='bg-cream col-span-2 row-span-1 rounded-[30px]'>
+
+          </div>
+          <div className='bg-cream col-span-2 row-span-1 rounded-[30px]'>
+
+          </div>
         </div>
+
+
       </section>
     </div>
   )

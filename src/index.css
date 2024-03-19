@@ -12,3 +12,7 @@
 .bg-radial_gradient {
     background: radial-gradient(circle at -20% -20%, #dfe4d4, #dde2d2, #d7ddcb, #ced6c1, #c4cdb6, #b8c3a9, #abb99c, #9faf8f, #94a684, #8b9f7c, #859b76, #839974);
 }
+
+.bg__green {
+    background-color: rgb(163, 179, 149, 75%);
+}
