@@ -21,7 +21,7 @@ const Navbar = () => {
 
         {/* SearchBar */}
         <div className='flex flex-1 items-center col-span-1 bg-cream rounded-full drop-shadow-lg'>
-          <input placeholder='Search Catalog...' className='flex flex-1 placeholder-green text-green bg-cream py-2 px-4 outline-none rounded-full' />
+          <input name='search' placeholder='Search Catalog...' className='flex flex-1 placeholder-green text-green bg-cream py-2 px-4 outline-none rounded-full' />
           <img src={search} alt='search' className='h-[28px] w-[28px] right-0 mx-2 hover:cursor-pointer'/>
         </div>
 
@@ -56,7 +56,7 @@ const Navbar = () => {
 
             {/* SearchBar */}
             <div className='flex flex-1 items-center col-span-1 bg-cream rounded-full mt-2'>
-              <input className='flex flex-1 h-[24px] text-green bg-cream p-2 outline-none rounded-full' />
+              <input name='search' placeholder='Search Catalog...' className='flex flex-1 h-[24px] text-green bg-cream p-2 outline-none rounded-full' />
               <img src={search} alt='search' className='h-[24px] w-[24px] right-0 mx-2 my-1 hover:cursor-pointer'/>
             </div>
 
