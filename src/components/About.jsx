@@ -14,7 +14,7 @@ const About = () => {
 
         {/* Image */}
         <div className='flex xxs:m-6'>
-          <img src={livingroom} alt='livingroom' className='flex flex-1 rounded-[25px] md:max-w-[500px]'/>
+          <img src={livingroom} alt='livingroom' className='flex flex-1 rounded-[25px] md:max-w-[300px] lg:max-w-[500px]'/>
         </div>
 
         {/* Description */}
