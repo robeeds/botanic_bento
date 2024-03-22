@@ -7,6 +7,8 @@ import exit from "./exit.svg"
 import landingplant from "./LandingPlant.png"
 import livingroom from "./aboutlivingroom.png"
 import card from "./Card.svg"
+import blossoming from "./blossoming.jpeg"
+import open from "./open.svg"
 
 export {
     logo,
@@ -18,4 +20,6 @@ export {
     landingplant,
     livingroom,
     card,
+    blossoming,
+    open,
 }

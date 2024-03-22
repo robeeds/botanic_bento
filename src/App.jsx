@@ -15,7 +15,7 @@ function App() {
       <div >
         <About />
       </div>
-      <div className={`${styles.paddingX} ${styles.paddingY}`}>
+      <div className={``}>
         <Catalog />
       </div>
 
