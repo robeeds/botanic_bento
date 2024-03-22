@@ -20,10 +20,10 @@ const Catalog = () => {
             <div className='absolute flex flex-col w-[100%] h-[100%]'>
 
               {/* Top Div */}
-              <div className='w-[100%] h-[68%] flex justify-center'>
+              <div className='w-[100%] h-[68%] flex justify-center p-8'>
 
                 {/* Image */}
-                <img src={blossoming} alt='Green Living Rooom' className='flex self-center object-cover w-[94%] h-[85%] rounded-t-[30px] rounded-bl-[20px] rounded-br-[25px]'/>
+                <img src={blossoming} alt='Green Living Rooom' className='flex self-center object-cover w-[100%] h-[100%] rounded-t-[30px] rounded-bl-[20px] rounded-br-[25px]'/>
               </div>
 
               {/* Bottom Div */}
@@ -48,8 +48,8 @@ const Catalog = () => {
           </div>
 
           {/* Catalog 2 */}
-          <div className='bg-cream col-span-3 row-span-2 rounded-[40px] flex justify-center items-center'>
-            <img src={blossoming} alt='Catalog #2 Preview' className='object-cover max-w-[90%] h-[90%] rounded-[30px]'/>
+          <div className='bg-cream col-span-3 row-span-2 rounded-[40px] flex justify-center items-center p-7'>
+            <img src={blossoming} alt='Catalog #2 Preview' className='object-cover w-[100%] h-[100%] rounded-[30px]'/>
           </div>
 
           <div className='bg-cream col-span-2 row-span-1 rounded-[30px]'>
