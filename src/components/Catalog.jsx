@@ -31,8 +31,8 @@ const Catalog = () => {
 
                 {/* Text */}
                 <div className='w-[79%] flex flex-col items-center'>
-                  <p className='font-montserrat font-medium text-[42px]'>Blossoming Beauties</p>
-                  <p className='font-montserrat text-[18px]'>Welcome the Season with our Spring Collection</p>
+                  <p className='font-montserrat font-medium xxs:text-[24px] lg:text-[42px]'>Blossoming Beauties</p>
+                  <p className='font-montserrat xxs:text-[12px] lg:text-[18px]'>Welcome the Season with our Spring Collection</p>
                 </div>
 
                 {/* Button */}
