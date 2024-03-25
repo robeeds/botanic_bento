@@ -9,6 +9,8 @@ import livingroom from "./aboutlivingroom.png"
 import card from "./Card.svg"
 import blossoming from "./blossoming.jpeg"
 import open from "./open.svg"
+import catalogtwo from "./catalogtwo.jpeg"
+import catalogthree from "./catalogthree.jpeg"
 
 export {
     logo,
@@ -22,4 +24,6 @@ export {
     card,
     blossoming,
     open,
+    catalogtwo,
+    catalogthree,
 }
