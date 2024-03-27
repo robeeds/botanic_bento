@@ -11,6 +11,9 @@ import blossoming from "./blossoming.jpeg"
 import open from "./open.svg"
 import catalogtwo from "./catalogtwo.jpeg"
 import catalogthree from "./catalogthree.jpeg"
+import pfpone from "./pfpone.png"
+import pfptwo from "./pfptwo.png"
+import pfpthree from "./pfpthree.png"
 
 export {
     logo,
@@ -26,4 +29,7 @@ export {
     open,
     catalogtwo,
     catalogthree,
+    pfpone,
+    pfptwo,
+    pfpthree,
 }
