@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Navbar, Hero, About, Catalog } from "./components"
+import { Navbar, Hero, About, Catalog, Testimonials } from "./components"
 import styles from "./style"
 
 function App() {
@@ -17,6 +17,10 @@ function App() {
       </div>
       <div className={``}>
         <Catalog />
+      </div>
+      <div className={``}>
+        <Testimonials />
+        {/* Add CTA Soon */}
       </div>
 
 
