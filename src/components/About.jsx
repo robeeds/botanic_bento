@@ -10,7 +10,7 @@ const About = () => {
       <div className='absolute z-[0] w-full bg-cream xxs:h-16 xxs:-top-8 md:h-24 sm:-top-12' />
 
       {/* About Section */}
-      <section id='about' className={`z-[4] ${styles.paddingX} ${styles.paddingY} bg-cream w-full flex flex-col-reverse md:flex-row items-center`} >
+      <section id='about' className={`z-[4] ${styles.paddingX} ${styles.paddingY} bg-cream w-full flex flex-col-reverse md:flex-row items-center p-6`} >
 
         {/* Image */}
         <div className='flex xxs:m-6'>
