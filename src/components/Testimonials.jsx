@@ -5,8 +5,8 @@ import { testimonialInfo } from '../constants'
 
 const Testimonials = () => {
   return (
-    <div className={`${styles.paddingX} ${styles.paddingY} bg-cream flex flex-col items-center`}>
-        <div className='border-b-black border-b-2 w-full text-center'>
+    <div className={`${styles.paddingX} bg-cream flex flex-col items-center`}>
+        <div className='border-b-black border-b-2 w-full text-center pb-2'>
             <p className={`${styles.subtitle}`}>Testimonials</p>
         </div>
         <hr />

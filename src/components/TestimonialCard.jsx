@@ -3,7 +3,7 @@ import styles from '../style'
 
 const TestimonialCard = ({ quote, image, name }) => {
   return (
-    <div className='flex flex-col p-6'>
+    <div className={`${styles.paddingY} flex flex-col p-6`}>
         <p className={`${styles.paragraph} pb-4`}>"{quote}"</p>
         <div className='flex flex-row items-center'>
             <div className='relative bg-lightGreen w-[60px] h-[60px] rounded-full flex justify-center items-center drop-shadow-lg'>
