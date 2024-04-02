@@ -4,6 +4,8 @@ import About from "./About";
 import Catalog from "./Catalog";
 import Testimonials from "./Testimonials";
 import TestimonialCard from "./TestimonialCard";
+import CTA from "./CTA";
+import Footer from "./Footer";
 
 export {
     Navbar,
@@ -12,4 +14,6 @@ export {
     Catalog,
     Testimonials,
     TestimonialCard,
+    CTA,
+    Footer
 }
