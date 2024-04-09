@@ -14,6 +14,10 @@ import catalogthree from "./catalogthree.jpeg"
 import pfpone from "./pfpone.png"
 import pfptwo from "./pfptwo.png"
 import pfpthree from "./pfpthree.png"
+import instagram from "./instagram.svg"
+import facebook from "./facebook.svg"
+import x from "./x.svg"
+import linkedin from "./linkedin.svg"
 
 export {
     logo,
@@ -32,4 +36,8 @@ export {
     pfpone,
     pfptwo,
     pfpthree,
+    instagram,
+    facebook,
+    x,
+    linkedin,
 }
