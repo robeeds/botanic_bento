@@ -12,7 +12,7 @@ const Testimonials = () => {
         <hr />
         
         {/* Testimonial Cards */}
-        <div className='flex flex-wrap md:flex-nowrap justify-evenly p-6'>
+        <div className='flex flex-wrap md:flex-nowrap justify-evenly sm:p-6'>
             {testimonialInfo.map((index) => 
                 <TestimonialCard key={index.id} {...index} />
             )}
