@@ -7,10 +7,13 @@ import exit from "./exit.svg"
 import landingplant from "./LandingPlant.png"
 import livingroom from "./aboutlivingroom.png"
 import card from "./Card.svg"
+import rectanglecard from "./rectanglecard.svg"
 import blossoming from "./blossoming.jpeg"
 import open from "./open.svg"
 import catalogtwo from "./catalogtwo.jpeg"
 import catalogthree from "./catalogthree.jpeg"
+import catalogfour from "./catalogfour.jpeg"
+import catalogfive from "./catalogfive.jpeg"
 import pfpone from "./pfpone.png"
 import pfptwo from "./pfptwo.png"
 import pfpthree from "./pfpthree.png"
@@ -29,10 +32,13 @@ export {
     landingplant,
     livingroom,
     card,
+    rectanglecard,
     blossoming,
     open,
     catalogtwo,
     catalogthree,
+    catalogfour,
+    catalogfive,
     pfpone,
     pfptwo,
     pfpthree,
