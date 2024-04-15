@@ -4,8 +4,8 @@ import styles from '../style'
 
 const Catalog = () => {
   return (
-    <div className={`bg__green p-6 w-full ${styles.paddingX} ${styles.paddingY}`}>
-      <section id='catalog' className='px-6'>
+    <div className={`flex justify-center bg__green p-6 w-full ${styles.paddingX} ${styles.paddingY}`}>
+      <section id='catalog' className='flex flex-col justify-center px-6'>
         <p className={`${styles.subtitle} text-center pb-6`}>Our Latest Releases</p>
         
         {/* Bento Section */}
