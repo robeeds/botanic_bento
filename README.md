@@ -39,7 +39,7 @@ This is a landing page for a Spring-inspired Botanic business. Built with React 
 
 ## Author
 
-- Website - [Robee D.](https://www.robeeds.tech)
+- Website - [Robee D.](https://www.robeeds.dev)
 
 ## Credits
 
