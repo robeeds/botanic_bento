@@ -14,7 +14,7 @@ This is a landing page for a Spring-inspired Botanic business. Built with React 
 ## Overview
 
 ### Requirements
-1. Create a modern ePortfolio landing page mockup with Figma
+1. Create a botanic business landing page mockup with Figma
 2. Incorporate at least one section with bento-inspired design
 3. Generate a React template using npm and Vite
 4. Import data and assets using a JS file
